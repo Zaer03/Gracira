@@ -1,0 +1,25 @@
+{
+  "title": "Gracira",
+  "version": "1.0.0",
+  "system": "dnd5e",
+  "id": "world.gracira.2023-10-28.1698544344844",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.313"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "size": 7696104,
+  "note": "test",
+  "snapshotId": null,
+  "originalSize": 16028073,
+  "createdAt": 1698544344844,
+  "packageId": "gracira",
+  "type": "world"
+}

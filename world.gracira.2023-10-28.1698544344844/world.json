@@ -1,0 +1,222 @@
+{
+  "title": "Gracira",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "Items",
+      "name": "items",
+      "path": "packs/items",
+      "system": "dnd5e",
+      "type": "Item",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Homebrew Items",
+      "name": "homebrew-items",
+      "path": "packs/homebrew-items",
+      "system": "dnd5e",
+      "type": "Item",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items-of-mine",
+      "label": "Items (of mine?)",
+      "system": "dnd5e",
+      "path": "packs/items-of-mine",
+      "type": "Item",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-gracira-ddb-backgrounds",
+      "path": "packs/ddb-gracira-ddb-backgrounds",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-gracira-ddb-classes",
+      "path": "packs/ddb-gracira-ddb-classes",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-gracira-ddb-subclasses",
+      "path": "packs/ddb-gracira-ddb-subclasses",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-gracira-ddb-class-features",
+      "path": "packs/ddb-gracira-ddb-class-features",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-gracira-ddb-feats",
+      "path": "packs/ddb-gracira-ddb-feats",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-gracira-ddb-items",
+      "path": "packs/ddb-gracira-ddb-items",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-gracira-ddb-monsters",
+      "path": "packs/ddb-gracira-ddb-monsters",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-gracira-ddb-vehicles",
+      "path": "packs/ddb-gracira-ddb-vehicles",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-gracira-ddb-races",
+      "path": "packs/ddb-gracira-ddb-races",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-gracira-ddb-racial-traits",
+      "path": "packs/ddb-gracira-ddb-racial-traits",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-gracira-ddb-spells",
+      "path": "packs/ddb-gracira-ddb-spells",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-gracira-ddb-tables",
+      "path": "packs/ddb-gracira-ddb-tables",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-gracira-ddb-override",
+      "path": "packs/ddb-gracira-ddb-override",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-gracira-ddb-adventures",
+      "path": "packs/ddb-gracira-ddb-adventures",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "system": "dnd5e",
+  "coreVersion": "11.313",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.3.1",
+  "id": "gracira",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.313"
+  },
+  "lastPlayed": "Sat Oct 28 2023 20:52:01 GMT-0500 (Central Daylight Time)",
+  "playtime": 95360
+}

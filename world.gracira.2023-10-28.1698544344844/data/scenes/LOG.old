@@ -1,0 +1,32 @@
+2023/10/28-12:01:27.934 2c90 Recovering log #103
+2023/10/28-12:01:27.934 2c90 Level-0 table #105: started
+2023/10/28-12:01:27.936 2c90 Level-0 table #105: 47314 bytes OK
+2023/10/28-12:01:27.940 2c90 Delete type=0 #103
+2023/10/28-12:01:27.941 2c90 Delete type=3 #102
+2023/10/28-12:56:00.924 6fd4 Level-0 table #108: started
+2023/10/28-12:56:00.974 6fd4 Level-0 table #108: 3759056 bytes OK
+2023/10/28-12:56:00.977 6fd4 Delete type=0 #106
+2023/10/28-13:11:16.852 6fd4 Compacting 2@0 + 0@1 files
+2023/10/28-13:11:16.859 6fd4 Generated table #109@0: 158 keys, 59090 bytes
+2023/10/28-13:11:16.859 6fd4 Compacted 2@0 + 0@1 files => 59090 bytes
+2023/10/28-13:11:16.860 6fd4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/28-13:11:16.860 6fd4 Delete type=2 #105
+2023/10/28-13:11:16.861 6fd4 Delete type=2 #108
+2023/10/28-13:33:19.010 6fd4 Compacting 1@1 + 1@2 files
+2023/10/28-13:33:19.040 6fd4 Generated table #110@1: 6761 keys, 833581 bytes
+2023/10/28-13:33:19.040 6fd4 Compacted 1@1 + 1@2 files => 833581 bytes
+2023/10/28-13:33:19.042 6fd4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/28-13:33:19.042 6fd4 Delete type=2 #101
+2023/10/28-13:33:19.043 6fd4 Delete type=2 #109
+2023/10/28-13:38:21.143 6fd4 Level-0 table #112: started
+2023/10/28-13:38:21.166 6fd4 Level-0 table #112: 2552836 bytes OK
+2023/10/28-13:38:21.167 6fd4 Delete type=0 #107
+2023/10/28-13:38:21.170 6fd4 Manual compaction at level-0 from '!scenes!262ctOWZc3GnvfwT' @ 72057594037927935 : 1 .. '!scenes.walls!yrjv4Zbf4pLnLBRH.wSS0P8bS769TDKf5' @ 0 : 0; will stop at (end)
+2023/10/28-13:38:21.189 6fd4 Manual compaction at level-1 from '!scenes!262ctOWZc3GnvfwT' @ 72057594037927935 : 1 .. '!scenes.walls!yrjv4Zbf4pLnLBRH.wSS0P8bS769TDKf5' @ 0 : 0; will stop at '!scenes.walls!Uv5UIrmlsVBGhVl1.r94FepeNEFpalOpy' @ 15522 : 1
+2023/10/28-13:38:21.189 6fd4 Compacting 1@1 + 1@2 files
+2023/10/28-13:38:21.209 6fd4 Generated table #113@1: 6740 keys, 832084 bytes
+2023/10/28-13:38:21.209 6fd4 Compacted 1@1 + 1@2 files => 832084 bytes
+2023/10/28-13:38:21.210 6fd4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/28-13:38:21.210 6fd4 Delete type=2 #110
+2023/10/28-13:38:21.210 6fd4 Delete type=2 #112
+2023/10/28-13:38:21.213 6fd4 Manual compaction at level-1 from '!scenes.walls!Uv5UIrmlsVBGhVl1.r94FepeNEFpalOpy' @ 15522 : 1 .. '!scenes.walls!yrjv4Zbf4pLnLBRH.wSS0P8bS769TDKf5' @ 0 : 0; will stop at (end)
